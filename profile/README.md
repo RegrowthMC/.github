@@ -2,7 +2,7 @@
 RegrowthMC is a public Minecraft server focused on community, whilst we will always try to implement unique features, at the heart are focus is giving players a nice community and server to engage in/with.
 
 ## Community
-- Join the [Discord server](https://regrowthmc.net/discord) to join the community and server
+- Join the [Discord server](https://regrowthmc.net/discord) to join the community and Minecraft server
 - Support the project by donating to our [store](https://store.regrowthmc.net/)
 
 ## Open-source
